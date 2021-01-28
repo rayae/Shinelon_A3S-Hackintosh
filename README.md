@@ -67,13 +67,13 @@ fptw64.exe -f BIOS_E479_Unlocked.bin -bios
 
 ### 截图一览
 
-![desktop.jpg](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/desktop.jpg)
+![desktop.png](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/desktop.png)
 
-![usb.jpg](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/usb.jpg)
+![usb.png](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/usb.png)
 
-![wifi.jpg](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/wifi.jpg)
+![wifi.png](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/wifi.png)
 
-![bluetooth.jpg](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/bluetooth.jpg)
+![bluetooth.png](https://github.com/bavelee/Shinelon_A3S-Hackintosh/raw/main/Screenshots/bluetooth.png)
 
 # 如果我的辛勤工作对您有所帮助的话，感谢您的捐赠鼓励
 
